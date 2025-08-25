@@ -44,10 +44,10 @@ Our dataset are evolving and longer than existing datasets. Existing datasets ar
 ## Data overview
 
 XXLTraffic dataset overview and its evolving development. This figure provides a global overview and two local overviews, showcasing the diversity of sensor distribution. The lower parts highlights a selected region to illustrate the growth and changes in traffic sensors over time.
-![fig2.](fig2.png)
+![fig2.](./fig/fig2.png)
 
 Sensor traffic status distribution of District 8 from 2005 to 2024. While some sensors exhibit minimal changes, others show significant distribution differences, regardless of whether they are in low-traffic or high-traffic areas. This presents substantial challenges for extremely long forecasting with long gaps.
-![fig333.](fig3333.png)
+![fig333.](./fig/fig3333.png)
 
 ## Data download
 
@@ -73,7 +73,7 @@ The required environments setting is shown in requirements.txt
 
 Our benchmark setting: The yellow boxes represent typical predictions, the gray boxes denote
 gap periods between observation and prediction, and the blue boxes indicate extended predictions.
-![exp.](expnew.png)
+![exp.](./fig/expnew.png)
 
 How to run:
 
@@ -84,13 +84,13 @@ bash g_p3_autoformer.sh
 ```
 
 Results of Extremely Long Forecasting with gaps:
-![exp1.](ex1.png)
+![exp1.](./fig/ex1.png)
 
 Results of ablation study with 4 different input step lengths:
-![exp3.](ex3.png)
+![exp3.](./fig/ex3.png)
 
 Results of hourly and daily datasets:
-![exp2.](ex2.png)
+![exp2.](./fig/ex2.png)
 
 ## License
 
