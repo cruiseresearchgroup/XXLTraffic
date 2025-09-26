@@ -1,5 +1,9 @@
 # **XXLTraffic: Expanding and Extremely Long Traffic Forecasting beyond Test Adaptation**. 
 
+SIGSPATIAL 2025 Main Conference
+
+https://arxiv.org/pdf/2406.12693
+
 We propose XXLTraffic, a dataset that spans up to 23 years and exhibits evolutionary growth. It includes data from 10 regions, with detailed data collection and processing procedures for expansion and transformation. This dataset supports both temporally scalable and spatially scalable challenges in traffic prediction.We also present an experimental setup with temporal gaps for extremely long prediction with gaps scenarios and provide a benchmark of aggregated versions of hourly and daily datasets.
 
 
