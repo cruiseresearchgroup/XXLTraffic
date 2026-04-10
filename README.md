@@ -1,5 +1,6 @@
 
-# **[SIGSPATIAL 2025 Best Paper Award] XXLTraffic: Expanding and Extremely Long Traffic Forecasting beyond Test Adaptation**. 
+# **[SIGSPATIAL 2025 Best Paper Award] 
+XXLTraffic: Expanding and Extremely Long Traffic Forecasting beyond Test Adaptation**. 
 
 SIGSPATIAL 2025 Main Conference
 
